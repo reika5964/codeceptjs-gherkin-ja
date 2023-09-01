@@ -1,0 +1,1 @@
+# codeceptjs-hotel-planisphere
