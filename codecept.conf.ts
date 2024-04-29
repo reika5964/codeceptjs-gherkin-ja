@@ -24,7 +24,7 @@ export const config: CodeceptJS.MainConfig = {
       fullPageScreenshots: true,
       uniqueScreenshotNames: true,
       highlightElement: false,
-      show: false,
+      show: true,
       trace: true,
       keepTraceForPassedTests: true,
     },
