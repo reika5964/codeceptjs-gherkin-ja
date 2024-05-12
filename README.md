@@ -1,6 +1,7 @@
 # Playwright_TS_BDD_CodeceptJS
 
 Automation Testing | Web | Playwright | Typescript | VS Code | BDD | CodeceptJS
+- codeceptjs学習のレポジトリ
 
 # Learnings from This Project : [hotel-example-codeceptjs-ja](https://github.com/GOAMI-Takaaki/codeceptjs-hotel-planisphere)
 
